@@ -5,7 +5,7 @@ This Project is a simple role and permission based school management system usin
 
 ### Installation
 ----------------
-01. `git clone https://github.com/vidush-dixit/School-Management-System.git`
+01. `git clone https://github.com/shivampandeypandey/School-Management-System.git
 02. `cd laravel-school-management-system`
 03. `composer install`
 04. `npm install`
